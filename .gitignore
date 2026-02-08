@@ -27,3 +27,6 @@ Thumbs.db
 # Coding Agent
 .kiro/
 .claude/
+
+# Files
+output/
